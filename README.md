@@ -32,9 +32,6 @@ https://github.com/AnikKazi-dev/Robot-VS-Zombie-Unity_engine-/assets/36131816/10
   <img src="screenshot/2.png" width="256" hspace="4">
   <img src="screenshot/3.png" width="256" hspace="4">
   <img src="screenshot/4.png" width="256" hspace="4">
-  <img src="screenshot/5.jpg" width="256" hspace="4">
-  <img src="screenshot/6.jpg" width="256" hspace="4">
-  <img src="screenshot/7.jpg" width="256" hspace="4">
 </p>
 
 
